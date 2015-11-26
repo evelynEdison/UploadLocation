@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">UploadLocation</string>
+    <string name="no_location_provider">没有可用的位置提供器</string>
+    <string name="setting_ip_address">IP地址：</string>
+    <string name="setting_ports">端口：</string>
+    <string name="save_success">保存成功</string>
+    <string name="save_fail">保存失败</string>
+    <string name="btn_save">保存</string>
+
+    <string name="login_userid_hint">用户名</string>
+    <string name="login_input_pwd_hint">密码</string>
+    <string name="login_remember_userid">记住用户名</string>
+    <string name="login_remember_pwd">记住密码</string>
+    <string name="login">登录</string>
+
+    <string name="user_empty">用户名为空</string>
+    <string name="pwd_empty">密码为空</string>
+
+    <string name="login_success">登录成功</string>
+    <string name="login_fail">登录失败</string>
+</resources>
